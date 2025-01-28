@@ -1,0 +1,4 @@
+# Add your Python dependencies here 
+python-dotenv
+python-telegram-bot
+PyGithub
