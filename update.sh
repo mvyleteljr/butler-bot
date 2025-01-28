@@ -4,5 +4,5 @@ set -eu
 cd ~/butler-bot
 git pull
 docker compose build
-docker compose up restart
+docker compose restart
 
