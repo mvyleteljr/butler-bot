@@ -1,4 +1,4 @@
-#!/usr/local/bin
+#!/usr/bin/bash
 
 set -eu
 cd ~/butler_bot
